@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/235174062?s=400&u=73fdbeba6bd8f02e98826aaff4746e4ce9ba2350&v=4" width="200"/>
+
 ## 👋 Hi, I'm Nataliia Demchenko
 
 # Junior Frontend Developer | React | Next.js | TypeScript
@@ -6,7 +8,7 @@ Frontend Developer with practical experience in JavaScript, TypeScript, React, a
 
 ## 🧰 Tech Stack
 
-JavaScript | TypeScript | React | Next.js | HTML5 | CSS3 | Sass | Redux Toolkit | React Query | React Router | REST API | Axios | Git | GitHub | Vite | Figma | Postman
+JavaScript | TypeScript | React | Next.js | HTML5 | CSS3 | React Query | React Router | REST API | Axios | Git | GitHub | Vite | Figma | Postman
 
 ## 💻 Featured Projects
 EcoTote (Team Project)
@@ -15,7 +17,7 @@ EcoTote (Team Project)
 Eco-friendly tote bag online store developed as a team project. Participated in creating responsive user interface components, implementing adaptive layouts, and collaborating with team members using GitHub. Focused on delivering a smooth user experience across different devices.
 
 Mebleriya (Team Project)
-- 🔗 [https://github.com/ponomarenko404-lang/project-Domino](ttps://ponomarenko404-lang.github.io/project-Domino/)
+- 🔗 [https://github.com/ponomarenko404-lang/project-Domino](https://ponomarenko404-lang.github.io/project-Domino/)
 
 Furniture e-commerce website developed in a team environment. Implemented a product catalog section with category filtering, dynamic data rendering, and API integration. Built responsive layouts following modern frontend development practices and design specifications.
 
